@@ -24,3 +24,8 @@ A simple To-Do List application built using Python.
 
 ```bash
 python todo.py
+
+
+## Author
+
+JAGGINENI DEEKSHITH KUMAR
